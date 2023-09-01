@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "Anthont Sadarangani",
+		template: "%s | Anthony Sadarangani",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Enterprise Architect & Technologist",
 	openGraph: {
 		title: "chronark.com",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Enterprise Architect & Technologist",
+		url: "https://anthonyrs06-github-io.vercel.app/projects",
+		siteName: "Anthony Sadarangani",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
